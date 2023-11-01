@@ -1,0 +1,15 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index2.js",
+  "scripts": {
+    "test": "node index2.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dbus": "^1.0.7",
+    "dbus-native": "^0.4.0"
+  }
+}
